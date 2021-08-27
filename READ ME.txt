@@ -1,0 +1,19 @@
+Marcin Dziadosz 
+y711@gmx.com
+2021
+
+Narzêdzie diagnostyczne do badania lateralizacji 
+
+W celu przeprowadzenia badania uruchom plik "n_lateralizacja". 
+Przed uruchomieniem pliku badany powinien zostaæ poinformowany, które oko ma zostaæ zakryte. Zaleca siê przeprowadzenie badania w kombinacji:
+prawe oko - prawa rêka
+prawe oko - lewa rêka
+lewe oko - prawa rêka
+lewe oko - lewa rêka. 
+
+Za ka¿dym razem uruchom program do wykonania nowego pomiaru.
+Wyniki pomiaru czasu reakcji rêka oko zapisywane s¹ do pliku wyniki.txt znajduj¹cego siê w folderze z programem. Wyniki podlegaj¹ dowolnej interpretacji badaj¹cego. 
+
+Program wykonuje 10 pomiarów. Zadaniem badanego jest jak najszybsze klikniêcie myszk¹, gdy zobaczy na ekranie kolorowe kó³ko. Pomiar koñczy siê w momencie, gdy na ekranie pojawi siê napis "naciœnij dowolny przycisk aby zakoñczyæ". 
+
+Zak³ada siê, ¿e lateralizacja jednostronna wystêpuje w momencie, gdy czas reakcji jednej strony tj. jednej rêki i jednego oka jest gorszy od strony przeciwnej. 
